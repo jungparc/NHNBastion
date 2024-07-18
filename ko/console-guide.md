@@ -175,7 +175,7 @@ NHN Bastion 서비스 이용 권한을 가진 사용자 목록입니다. 사용�
 
 * **스크립트**
     * ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/d62cab1a-a01b-42f3-aca3-0afc4577c9e9)
-    * 임시 SSH KEY를 접근방식을 이용하기 위하여 대상 인스턴스에서 실행해야 하는 스크립트를 제공합니다.
+    * 임시 SSH 키를 이용한 접근 방식을 이용하기 위하여 대상 인스턴스에서 실행해야 하는 스크립트를 제공합니다.
 
 
 > [주의]
