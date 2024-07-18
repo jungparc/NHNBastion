@@ -232,7 +232,7 @@ NHN Bastion 서비스를 이용해 인스턴스에 접근한 이력을 �
 ### 환경 설정
 ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/1e124d23-bd93-4733-a0e8-ac18e5a36f66)
 
-#### 세션타임아웃
+#### 세션 타임아웃
 
 인스턴스 접근시에 웹터미널에서 제공하는 세션타임아웃을 설정할 수 있습니다.
 
