@@ -245,7 +245,7 @@ NHN Bastion 서비스에서 제공하는 로그를 고객의 Object Storag
 * **엑세스 키**: S3 API 자격 증명 접근 키
 * **시크릿 키**: S3 API 자격 증명 비밀 키
 * **버킷 이름**: 생성한 버킷 이름
-* **엔드 포인트**
+* **엔드포인트**
   * 한국(판교) 리전: https://kr1-api-object-storage.nhncloudservice.com
   * 한국(평촌) 리전: https://kr2-api-object-storage.nhncloudservice.com
   * 한국(광주) 리전: https://kr3-api-object-storage.nhncloudservice.com
