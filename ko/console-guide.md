@@ -1,6 +1,6 @@
 ## Security > NHN Bastion > 콘솔 사용 가이드
 NHN Bastion을 이용해 NHN Cloud의 인스턴스에 대한 접근을 제어할 수 있습니다. 이 문서에서는 NHN Cloud 콘솔에서 NHN Bastion을 생성하고 접근이 필요한 인스턴스에 연결하는 방법과 사용자 및 정책, 자원, 이력을 관리하는 방법을 설명합니다.
-## 시작하기
+### 시작하기
 
 1. NHN Bastion을 사용하기 위해서는 가장 먼저 NHN Bastion 서비스를 활성화합니다.
 2. NHN Bastion은 서비스 제공을 위하여 API 연동을 통해 사용자의 자원에 접근할 수 있는 권한이 필요합니다.
