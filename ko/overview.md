@@ -1,4 +1,5 @@
-# Security > NHN Bastion > 개요
+## Security > NHN Bastion > 개요
+
 
 NHN Bastion은 NHN Cloud에서 사용하는 인프라 자산들을 안전하게 접속하기 위해 제공하는 시스템접근제어 서비스입니다.
 
