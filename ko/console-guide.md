@@ -251,7 +251,7 @@ NHN Bastion 서비스에서 제공하는 로그를 고객의 Object Storag
   * 한국(광주)리전 : https://kr3-api-object-storage.nhncloudservice.com
 * **리전**
   * 한국(판교)리전 : KR1
-  * 한국(평촌)리전 : KR2
+  * 한국(평촌) 리전: KR2
   * 한국(광주) 리전: KR3
   
 > [주의]
