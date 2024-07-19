@@ -122,7 +122,7 @@ NHN Bastion 서비스 이용 권한을 가진 사용자 목록입니다. 사용�
 ### 자원 관리
 
 #### 인스턴스 관리
-![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/bacb7709-3fc2-42e5-ada3-7b11c8f4b40e)
+![image](https://github.com/user-attachments/assets/311e96ee-68f5-46cb-ba37-0ce0e94162c1)
 
 **자원 관리 > 인스턴스 관리** 탭에서는 프로젝트 내에 등록되어 있는 인스턴스를 연결 대상으로 추가할 수 있습니다.
 등록된 인스턴스를 대상으로 접근 통제 정책 및 명령어 통제 정책 기능을 제공합니다.
