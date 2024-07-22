@@ -173,7 +173,7 @@ You cannot delete the first web terminal created when the service is activated; 
 IP access control is provided on a whitelist basis.
 
 * **Script**
-    ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/d62cab1a-a01b-42f3-aca3-0afc4577c9e9)
+    * ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/d62cab1a-a01b-42f3-aca3-0afc4577c9e9)
     * Provides a script that needs to be run on the target instance to utilize the approach with ephemeral SSH keys.
 
 
