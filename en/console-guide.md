@@ -173,7 +173,7 @@ You cannot delete the first web terminal created when the service is activated; 
 IP access control is provided on a whitelist basis.
 
 * **Script**
-    * ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/d62cab1a-a01b-42f3-aca3-0afc4577c9e9)
+    ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/d62cab1a-a01b-42f3-aca3-0afc4577c9e9)
     * Provides a script that needs to be run on the target instance to utilize the approach with ephemeral SSH keys.
 
 
@@ -185,7 +185,7 @@ IP access control is provided on a whitelist basis.
 
 The **Manage Resources > Resource Groups** tab lets you create and manage groups of instances that are registered to a connection target.
 
-* ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/9d4a9853-d841-4f02-9aa3-c1f88e96d708)
+![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/9d4a9853-d841-4f02-9aa3-c1f88e96d708)
 * **+ Create Group**: You can create a group by adding or deleting instances that are registered with the connection target.
 * **Copy**: You can select a group of resources to copy.
 * **Modify**: You can edit the resource group.
