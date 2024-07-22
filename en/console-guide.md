@@ -247,8 +247,8 @@ You can back up logs provided by the NHN Bastion service to your own Object Stor
 * **Secret** key: S3 API credentials secret key
 * **Bucket Name**: The name of the bucket you created
 * **Endpoint**
-  * Korea (Pangyo) region : https://kr1-api-object-storage.nhncloudservice.com
-  * Korea (Pyeongchon) region : https://kr2-api-object-storage.nhncloudservice.com
+  * Korea (Pangyo) region: https://kr1-api-object-storage.nhncloudservice.com
+  * Korea (Pyeongchon) region: https://kr2-api-object-storage.nhncloudservice.com
   * Korea (Gwangju) region: https://kr3-api-object-storage.nhncloudservice.com
 * **Region**
   * Korea (Pangyo) Region: KR1
