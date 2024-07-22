@@ -1,4 +1,5 @@
 
+
 ## Security > NHN Bastion > Console User Guide
 NHN Bastion allows you to control access to instances on NHN Cloud. This document describes how to create an NHN Bastion in the NHN Cloud console, connect it to the instances you need access to, and manage users and their policies, resources, and history.
 ### Get Started
@@ -286,3 +287,4 @@ You can launch the file navigator by clicking the right arrow button. The file n
 
 >[Caution]
 File transfer is based on the permissions of the operating system account that was initially accessed, and account changes via the su command are not reflected.
+

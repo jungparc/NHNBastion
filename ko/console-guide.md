@@ -164,9 +164,9 @@ NHN Bastion 서비스 이용 권한을 가진 사용자 목록입니다. 사용�
     * 웹 터미널의 플로팅 IP 사용 여부를 설정할 수 있습니다.
     * Network Firewall 서비스를 이용하여 퍼블릭 IP를 DNAT 처리하는 고객은 **리다이렉션** 기능을 **사용**으로 설정하여 퍼블릭 IP를 입력할 수 있습니다.
     * 사내 DNS를 이용하는 고객은 **리다이렉션** 기능을 **사용**으로 설정하여 도메인 주소를 입력할 수 있습니다.
-* **IP 접근 제어**
-  
+* **IP 접근 제어** 
     ![image](https://github.com/user-attachments/assets/0559ba4a-960c-42cc-918f-37c83fd95ac0)
+
     * 웹 터미널에 접근이 필요한 CIDR을 입력할 수 있습니다.
 
 
@@ -227,6 +227,7 @@ NHN Bastion 서비스를 이용해 인스턴스에 접근한 이력을 �
 
 ### 환경 설정
 ![image](https://github.com/user-attachments/assets/7b1afdc1-42db-4ab9-9c5a-f473a985d16e)
+
 
 #### 세션 타임아웃
 

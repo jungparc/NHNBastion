@@ -286,3 +286,4 @@ You can launch the file navigator by clicking the right arrow button. The file n
 
 >[Caution]
 File transfer is based on the permissions of the operating system account that was initially accessed, and account changes via the su command are not reflected.
+
