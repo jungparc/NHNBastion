@@ -160,12 +160,14 @@ In **Manage Resources > Manage Web Terminals**, you can create/manage web termin
 You cannot delete the first web terminal created when the service is activated; you must deactivate the service to delete it.
 
 * **Floating IP**
-    * ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/5daf1846-662a-4e0f-bfc7-96120c4fcedf)
+
+    ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/5daf1846-662a-4e0f-bfc7-96120c4fcedf)
     * You can set whether to use a floating IP for the web terminal.
     * Customers using the Network Firewall service to DNAT a public IP can set the **Redirection** feature to **enable** to enter the public IP.
     * Customers using on-premises DNS can **enable** the **Redirect** feature to enter their domain address.
 * **IP Access Control**
-    * ![image](https://github.com/user-attachments/assets/0559ba4a-960c-42cc-918f-37c83fd95ac0)
+  
+    ![image](https://github.com/user-attachments/assets/0559ba4a-960c-42cc-918f-37c83fd95ac0)
     * You can enter a CIDR that requires access to the web terminal.
 
 
@@ -173,7 +175,8 @@ You cannot delete the first web terminal created when the service is activated; 
 IP access control is provided on a whitelist basis.
 
 * **Script**
-    * ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/d62cab1a-a01b-42f3-aca3-0afc4577c9e9)
+  
+     ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/d62cab1a-a01b-42f3-aca3-0afc4577c9e9)
     * Provides a script that needs to be run on the target instance to utilize the approach with ephemeral SSH keys.
 
 
@@ -185,7 +188,7 @@ IP access control is provided on a whitelist basis.
 
 The **Manage Resources > Resource Groups** tab lets you create and manage groups of instances that are registered to a connection target.
 
-* ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/9d4a9853-d841-4f02-9aa3-c1f88e96d708)
+![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/9d4a9853-d841-4f02-9aa3-c1f88e96d708)
 * **+ Create Group**: You can create a group by adding or deleting instances that are registered with the connection target.
 * **Copy**: You can select a group of resources to copy.
 * **Modify**: You can edit the resource group.
