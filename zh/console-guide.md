@@ -61,7 +61,7 @@ A list of users authorized to use the NHN Bastion service. You can check the use
 
 You can create and manage user groups, and the groups you create can be enrolled as access subjects on the <strong>Manage Policies</strong> tab.
 
-* * **+ Create Group**: You can create a group by adding or deleting users who are authorized to the NHN Bastion service. 
+* **+ Create Group**: You can create a group by adding or deleting users who are authorized to the NHN Bastion service. 
 * **Copy**: Copy the created user group.
 * **Modify**: Modify the created user group.
 * **Delete**: Delete the selected user group.
@@ -247,8 +247,8 @@ You can back up logs provided by the NHN Bastion service to your own Object Stor
 * **Secret** key: S3 API credentials secret key
 * **Bucket Name**: The name of the bucket you created
 * **Endpoint**
-  * Korea (Pangyo) region
-  * Korea (Pyeongchon) region
+  * Korea (Pangyo) region: https://kr1-api-object-storage.nhncloudservice.com
+  * Korea (Pyeongchon) region: https://kr2-api-object-storage.nhncloudservice.com
   * Korea (Gwangju) region: https://kr3-api-object-storage.nhncloudservice.com
 * **Region**
   * Korea (Pangyo) Region: KR1
