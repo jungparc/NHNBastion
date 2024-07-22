@@ -60,7 +60,7 @@ NHN Bastionサービス利用権限を持つユーザーのリストです。ユ
 
 ユーザーグループを作成及び管理することができ、作成したグループは<strong>ポリシー管理</strong>タブでアクセス主体として登録できます。
 
-* * **+ グループ作成**: NHN Bastionサービスに権限を持つユーザーを追加または削除してグループを作成できます。 
+* **+ グループ作成**: NHN Bastionサービスに権限を持つユーザーを追加または削除してグループを作成できます。 
 * **コピー**:作成されたユーザーグループをコピーできます。
 * **修正**:作成されたユーザーグループを修正できます。
 * **削除**:選択したユーザーグループを削除できます。
@@ -159,12 +159,14 @@ NHN Bastionサービス利用権限を持つユーザーのリストです。ユ
 > サービス有効化時に最初に作成されたWebターミナルは削除できません。削除するにはサービスを無効化する必要があります。
 
 * **Floating IP**
-    * ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/5daf1846-662a-4e0f-bfc7-96120c4fcedf)
+  
+  ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/5daf1846-662a-4e0f-bfc7-96120c4fcedf)
     * WebターミナルのFloating IPを使用するかどうかを設定できます。
     * Network Firewallサービスを利用してパブリックIPをDNAT処理する顧客は、**リダイレクト**機能を**使用**に設定してパブリックIPを入力できます。
     * 社内DNSを利用する顧客は、**リダイレクト**機能を**使用**に設定してドメインアドレスを入力できます。
 * **IPアクセス制御**
-    * ![image](https://github.com/user-attachments/assets/0559ba4a-960c-42cc-918f-37c83fd95ac0)
+  
+  ![image](https://github.com/user-attachments/assets/0559ba4a-960c-42cc-918f-37c83fd95ac0)
     * Webターミナルにアクセスが必要なCIDRを入力できます。
 
 
@@ -172,7 +174,8 @@ NHN Bastionサービス利用権限を持つユーザーのリストです。ユ
 > IPアクセス制御はホワイトリスト方式で提供されます。
 
 * **スクリプト**
-    * ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/d62cab1a-a01b-42f3-aca3-0afc4577c9e9)
+  
+  ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/d62cab1a-a01b-42f3-aca3-0afc4577c9e9)
     * 一時的なSSHキーを利用したアプローチを利用するために、対象インスタンスで実行する必要があるスクリプトを提供します。
 
 
@@ -184,7 +187,7 @@ NHN Bastionサービス利用権限を持つユーザーのリストです。ユ
 
 **リソース管理 > リソースグループ**タブでは、接続対象に登録されているインスタンスグループを作成及び管理できます。
 
-* ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/9d4a9853-d841-4f02-9aa3-c1f88e96d708)
+![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/9d4a9853-d841-4f02-9aa3-c1f88e96d708)
 * **+ グループ作成**:接続対象に登録されているインスタンスを追加または削除してグループを作成できます。
 * **コピー**:リソースグループを選択してコピーできます。
 * **修正**:リソースグループを修正できます。
