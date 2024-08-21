@@ -182,6 +182,8 @@ IP access control is provided on a whitelist basis.
 
 > [Caution]
 > * The temporary SSH key approach only applies to the selected web terminal, and is not available when accessed through other paths.
+> The instance IP to access must be added to IP Access Control on the web terminal.
+> Port 443 outbound policy must be added to the web terminal IP in the Security Groups of the instance to access.
 
 
 #### Resource Groups
