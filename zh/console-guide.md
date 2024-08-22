@@ -1,5 +1,4 @@
 
-
 ## Security > NHN Bastion > Console User Guide
 NHN Bastion allows you to control access to instances on NHN Cloud. This document describes how to create an NHN Bastion in the NHN Cloud console, connect it to the instances you need access to, and manage users and their policies, resources, and history.
 ### Get Started
@@ -183,6 +182,8 @@ IP access control is provided on a whitelist basis.
 
 > [Caution]
 > * The temporary SSH key approach only applies to the selected web terminal, and is not available when accessed through other paths.
+> The instance IP to access must be added to IP Access Control on the web terminal.
+> Port 443 outbound policy must be added to the web terminal IP in the Security Groups of the instance to access.
 
 
 #### Resource Groups
@@ -287,4 +288,3 @@ You can launch the file navigator by clicking the right arrow button. The file n
 
 >[Caution]
 File transfer is based on the permissions of the operating system account that was initially accessed, and account changes via the su command are not reflected.
-
