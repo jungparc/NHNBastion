@@ -226,7 +226,7 @@ NHN Bastion 서비스를 이용해 인스턴스에 접근한 이력을 �
 이력은 최대 6개월간 보관되며, 6개월 이상 보관이 필요할 경우 <strong>환경 설정 > 로그 관리</strong>에서 Object Storage에 백업할 수 있습니다.
 
 #### 실시간 세션
-![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/6add576a-bb0b-4082-9630-92efc11dc0e1)
+![image](https://github.com/user-attachments/assets/ca70cf06-2d74-4ca7-ab57-51e02ec6b083)
 
 실시간으로 인스턴스와 연결되어 있는 세션을 확인할 수 있으며, 연결을 차단할 수 있습니다.
 
@@ -234,7 +234,7 @@ NHN Bastion 서비스를 이용해 인스턴스에 접근한 이력을 �
 * **세션 차단**: 연결되어 있는 사용자 세션을 차단합니다.
 
 #### 사용자 접근 이력
-![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/0ed78c6d-a19b-4bcf-bacf-f845749af783)
+![image](https://github.com/user-attachments/assets/2defa233-35b5-4dde-82bf-7e0238bc055b)
 
 사용자가 인스턴스에 접근한 이력을 확인할 수 있으며, 검색 조건과 접속 시간을 이용하여 원하는 이력을 조회할 수 있습니다.
 
@@ -243,7 +243,7 @@ NHN Bastion 서비스를 이용해 인스턴스에 접근한 이력을 �
     * **로그**: 선택한 이력의 세션에서 사용한 명령어 이력을 확인할 수 있습니다.
 
 #### 명령어 사용 이력
-![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/68817f99-ec1e-473f-a7bf-2019b45be283)
+![image](https://github.com/user-attachments/assets/1c6446b9-e452-49fa-837d-5d5122191678)
 
 사용자가 사용한 명령어를 확인할 수 있으며, 검색 조건과 접속 시간을 이용하여 원하는 명령어 사용 이력을 조회할 수 있습니다.
 
@@ -254,7 +254,7 @@ NHN Bastion 서비스를 이용해 인스턴스에 접근한 이력을 �
     * **로그**: 선택한 이력의 세션에서 사용한 명령어 이력을 확인할 수 있습니다.
  
 #### 파일 전송 이력
-**이미지 삽입 예정**
+![image](https://github.com/user-attachments/assets/27313eff-6b28-4908-943a-c6c3d621df57)
 
 사용자가 인스턴스에 파일 업로드/다운로드한 이력을 확인할 수 있으며, 검색 조건과 접속 시간을 이용하여 원하는 이력을 조회할 수 있습니다.
 
@@ -263,16 +263,14 @@ NHN Bastion 서비스를 이용해 인스턴스에 접근한 이력을 �
     * **로그**: 선택한 이력의 세션에서 사용한 명령어 이력을 확인할 수 있습니다.
 
 ### 환경 설정
-![image](https://github.com/user-attachments/assets/7b1afdc1-42db-4ab9-9c5a-f473a985d16e)
+![image](https://github.com/user-attachments/assets/b88fbdf3-a16c-426a-8a5f-a71ced18cc98)
 
 #### 세션 타임아웃
 
 인스턴스 접근 시에 웹 터미널에서 제공하는 세션 타임아웃 시간을 설정할 수 있습니다.
 
-
 > [참고]
 > 웹 터미널에서 제공하는 세션 타임아웃 설정이므로, 운영체제에서 설정한 세션 타임아웃과는 별개로 동작합니다.
-
 
 #### 최대 연결 세션
 
