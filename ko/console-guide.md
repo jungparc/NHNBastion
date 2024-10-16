@@ -75,7 +75,7 @@ NHN Bastion 서비스 이용 권한을 가진 사용자 목록입니다. 사용�
 * **삭제**: 선택한 사용자 그룹을 삭제할 수 있습니다.
 
 ### 정책 관리
-![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/aa73734d-0e34-4411-91a8-3b2831a2f4b9)
+![image](https://github.com/user-attachments/assets/0a3683bb-5661-4867-83a6-6a8ae795116f)
 
 연결 대상에 등록된 인스턴스를 대상으로 접근 통제 정책 및 명령어 통제 정책을 설정할 수 있습니다.
 각 정책에는 우선순위가 있으며 우선순위가 높은 순서대로 정책이 적용됩니다.
@@ -134,7 +134,7 @@ NHN Bastion 서비스 이용 권한을 가진 사용자 목록입니다. 사용�
 ### 자원 관리
 
 #### 인스턴스 관리
-![image](https://github.com/user-attachments/assets/6f1b2e4d-4214-409b-83a1-1e92e37c2d65)
+![image](https://github.com/user-attachments/assets/5313b554-47f7-4b54-acbe-0f6b29424a39)
 
 **자원 관리 > 인스턴스 관리** 탭에서는 프로젝트 내에 등록되어 있는 인스턴스를 연결 대상으로 추가할 수 있습니다.
 등록된 인스턴스를 대상으로 접근 통제 정책 및 명령어 통제 정책 기능을 제공합니다.
@@ -164,7 +164,7 @@ NHN Bastion 서비스 이용 권한을 가진 사용자 목록입니다. 사용�
 * **서비스 이용현황 다운로드** : 현재 등록되어 있는 서비스 대상의 목록을 다운로드 할 수 있습니다.
 
 #### 웹 터미널 관리
-![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/96c8c655-c9f2-45a7-a56c-acccc16cce59)
+![image](https://github.com/user-attachments/assets/237364f8-f54b-4e32-9f6c-5a5dfef6574e)
 
 **자원 관리 > 웹 터미널 관리**에서 인스턴스 접근에 필요한 터미널과 배스천을 제공하는 웹 터미널 인스턴스를 생성/관리할 수 있습니다.
 
