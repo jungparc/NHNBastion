@@ -152,11 +152,10 @@ NHN Bastion 서비스 이용 권한을 가진 사용자 목록입니다. 사용�
      
 * **외부 자원**
    ![image](https://github.com/user-attachments/assets/1ab9806a-061c-478b-b9e0-38a5dabe4f50)
-
    * **등록**: 레거시 환경의 서버나 타 프로젝트의 인스턴스 등을 수동으로 등록할 수 있습니다.
-     
-   ![image](https://github.com/user-attachments/assets/6806a22f-8a6a-4d38-b42e-1aa857004670)
 
+   
+   ![image](https://github.com/user-attachments/assets/6806a22f-8a6a-4d38-b42e-1aa857004670)
    * **일괄 등록**: 외부 자원을 템플릿을 이용하여 일괄 등록할 수 있습니다.
  
 > [주의]
