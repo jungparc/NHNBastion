@@ -6,7 +6,7 @@ NHN Bastion을 이용해 NHN Cloud의 인스턴스에 대한 접근을 제어할
 2. NHN Bastion은 서비스 제공을 위하여 API 연동을 통해 사용자의 자원에 접근할 수 있는 권한이 필요합니다.
 
 ### NHN Bastion 생성
-![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/1bd26cd2-66f8-461c-9034-e4e8b4f9fabe)
+![image](https://github.com/user-attachments/assets/bdcf129e-996a-44b1-8c17-09f4cddf9008)
 
 1. **Security > NHN Bastion**으로 이동합니다.
 2. 각 항목을 설정하고 하단의 **인스턴스 생성**을 클릭합니다.
