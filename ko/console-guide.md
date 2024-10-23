@@ -316,7 +316,7 @@ NHN Bastion 서비스에서 제공하는 로그를 고객의 Object Storag
 Secure Key Manager에서 키 회전을 수행한 경우 키 회전 버튼을 통해 이전 버전의 키를 최신 버전으로 업데이트할 수 있습니다.
 
 > [주의]
-> SKM(Secure Key Manager)에서 키 회전 수행 후, NHN Bastion 서비스에서 키를 업데이트 하지 않는 경우 로그 조회에 오류가 발생할 수 있습니다.
+> Secure Key Manager에서 키 회전 수행 후 NHN Bastion 서비스에서 키를 업데이트하지 않을 경우 로그 조회에 오류가 발생할 수 있습니다.
 
 #### NHN Bastion 삭제
 
