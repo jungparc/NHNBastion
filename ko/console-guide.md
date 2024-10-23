@@ -18,7 +18,7 @@ NHN Bastion을 이용해 NHN Cloud의 인스턴스에 대한 접근을 제어할
     * **서브넷**(필수): 웹 터미널에서 사용할 서브넷
     * **플로팅 IP**(필수): 웹 터미널에서 사용할 플로팅 IP 사용 유무
     * **암호화**(필수): 로그 암호화 저장 유무
-        * 대칭 키 ID : Secure Key Manager 서비스에서 관리하는 대칭 키 ID
+        * 대칭 키 ID: Secure Key Manager 서비스에서 관리하는 대칭 키 ID
         * 암호화 설정을 위해서는 사전에 Secure Key Manager 서비스에서 대칭 키를 생성해야 합니다.
 
 > [참고]
