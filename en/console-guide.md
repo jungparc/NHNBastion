@@ -31,11 +31,11 @@ NHN Bastion allows you to control access to instances on NHN Cloud. This documen
 > * If the Secure Key Manager service rotates the symmetric key you set up for log encryption, you need to be careful not to immediately delete the old version of the key.
 > * If you delete the symmetric key that you set for log encryption in the Secure Key Manager service, the encrypted logs cannot be decrypted. You must manage the symmetric key carefully to avoid accidentally deleting it.
 
-### Connecting instances
+### Connecte Instances
 
 In <strong>Manage Policies</strong>, users only see a list of instances they are allowed to access, and they can access the instances they are allowed to access.
 
-#### Accessing instances
+#### Access Instances
 
 1. On the instance you need access to, click **Connect**.
 2. Select the web terminal you want to use to access your instance.
@@ -59,12 +59,12 @@ In <strong>Manage Policies</strong>, users only see a list of instances they are
 
 You can view a list of users authorized to use the NHN Bastion service and create and manage user groups.
 
-#### User list
+#### User List
 ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/38558289-7b24-4030-899a-9a202b75a2e4)
 
 A list of users authorized to use the NHN Bastion service. You can check the user's permissions and when they last accessed the instance.
 
-#### Groups
+#### Group
 ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/99d6d052-bca4-4150-a55e-99d375de7dc1)
 
 You can create and manage user groups, and the groups you create can be enrolled as access subjects on the <strong>Manage Policies</strong> tab.
@@ -144,7 +144,7 @@ It provides access control policy and command control policy capabilities for re
 * **Delete**: You can delete the selected instance from the connection target.
 * **Delete All**: You can delete all registered instances from the connection target.
 
-* **Set up a connection**
+* **Connection Settings**
     * You can change the session timeout for the selected instance.
         * Default setting: Session timeout applied in preferences
     * You can change the connection port for the selected instance.
@@ -224,10 +224,10 @@ The **Manage Resources > Resource Groups** tab lets you create and manage groups
 * **Modify**: You can edit the resource group.
 * **Delete**: You can select a group of resources to delete them.
 
-### Manage history
+### Manage History
 
 You can use the NHN Bastion service to manage the history of accesses to your instance. You can set the log retrieval period up to one week.
-History is kept for up to 6 months, and if you need to keep it longer than 6 months, you can back it up to Object Storage <strong>in Preferences > Log Management</strong>.
+History is kept for up to 6 months, and if you need to keep it longer than 6 months, you can back it up to Object Storage in <strong>Preferences > Manage Logs<strong>.
 
 #### Live Sessions
 ![image](https://github.com/user-attachments/assets/ca70cf06-2d74-4ca7-ab57-51e02ec6b083)
@@ -237,7 +237,7 @@ You can see which sessions are connected to your instance in real time, and you 
 * **View Details**: View details about the connected user session.
 * **Block Sessions**: Block a connected user session.
 
-#### User access history
+#### User Access History
 ![image](https://github.com/user-attachments/assets/2defa233-35b5-4dde-82bf-7e0238bc055b)
 
 You can see the history of how users have accessed your instance, and you can use search criteria and access times to get the history you want.
@@ -280,7 +280,7 @@ This is a session timeout setting provided by the web terminal, so it works inde
 
 You can set the maximum number of sessions a user can connect to at the same time.
 
-#### Manage logs
+#### Manage Logs
 
 You can back up logs provided by the NHN Bastion service to your own Object Storage.
 
@@ -291,7 +291,7 @@ You can back up logs provided by the NHN Bastion service to your own Object Stor
   * Korea (Pangyo) region
   * Korea (Pyeongchon) region
   * Korea (Gwangju) region: https://kr3-api-object-storage.nhncloudservice.com
-* **Regions**
+* **Region**
   * Korea (Pangyo) Region: KR1
   * Korea (Pyeongchon) Region: KR2
   * Korea (Gwangju) Region: KR3
@@ -333,6 +333,6 @@ Provides a browser-based web terminal with file upload/download capabilities.
 You can launch the file navigator by clicking the right arrow button. The file navigator allows you to upload or download files with the desired path.
 You can adjust the font size by clicking the right arrow button.
 
->[Note]
+> [Note]
 > File transfer is based on the permissions of the operating system account that was initially accessed, and account changes via the su command are not reflected.
 > If you upload files by dragging and dropping, they are saved in your home directory, regardless of the current directory path.
