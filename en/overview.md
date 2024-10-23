@@ -16,6 +16,7 @@ NHN Bastion is a server access control service for secure access to infrastructu
 * Provides a browser-based SSH experience to easily connect to your instances.
 
 * Reflects instances that are created or deleted automatically as service targets.
+
 * Provides real-time monitoring and session blocking.
 
 
@@ -53,7 +54,11 @@ NHN Bastion is a server access control service for secure access to infrastructu
 
 * When you enable the auto-registration feature, all instances within the project are registered, and changes to the instances are automatically reflected.
 
+* You can register external resources from other projects and legacy environments. However, connecting instances requires a connected network environment, such as peering.
+
+
 * Manages servers that provide terminals.
+
 * Allows you to check scripts for using temporary SSH key access methods.
 
 
@@ -64,8 +69,10 @@ NHN Bastion is a server access control service for secure access to infrastructu
 
 * Audits user access history and command usage history.
 
+* Audits file transfer history.
+
 #### Set up Preferences
 
 
-* Provides configuration features such as session timeout, maximum connected sessions, log backup, and connection port management.
+* Provides configuration features such as session timeout, maximum connected sessions, log backup, connection port management, and encryption.
 
