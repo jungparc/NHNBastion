@@ -108,7 +108,7 @@ NHN Bastion 서비스 이용 권한을 가진 사용자 목록입니다. 사용�
 
 > [주의]
 > 아래의 명령어에 대해서는 명령어 정책 등록 유무와 관계없이 모두 차단됩니다.
-> * 우회차단 명령어 : SSH, TELNET, SFTP, RCP, SCP, FTP, RSAP, RLOGIN 등
+> * 우회 차단 명령어: SSH, TELNET, SFTP, RCP, SCP, FTP, RSAP, RLOGIN 등
 
 #### 정책 순서 변경
 ![image](https://github.com/jongwoo-kim-nhn/NHNBastion/assets/174567179/2342d3d9-a7f9-43d4-a474-0c514d5dda0b)
